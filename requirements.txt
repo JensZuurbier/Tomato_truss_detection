@@ -7,3 +7,5 @@ tensorflow_datasets
 imgaug
 pandas
 google-colab
+jupyterlab
+opencv-python
